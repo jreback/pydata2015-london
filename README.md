@@ -1,1 +1,1 @@
-# pydata2015-london
+# Performance Pandas talk at PyData London 2015
