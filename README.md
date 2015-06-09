@@ -1,1 +1,4 @@
-# Performance Pandas talk at PyData London 2015
+# Performance Pandas
+
+Talk at PyData London 2015
+June 21, 2015
