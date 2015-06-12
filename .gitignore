@@ -6,6 +6,7 @@ __pycache__/
 
 data/
 *~
+*.h5
 
 # C extensions
 *.so
